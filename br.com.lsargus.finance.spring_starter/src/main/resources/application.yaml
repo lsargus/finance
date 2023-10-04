@@ -1,0 +1,3 @@
+#spring:
+#  component-scan:
+#    base-packages: br.com.lsargus.financeiro.adapters, br.com.lsargus.financeiro.config, br.com.lsargus.financeiro.services, br.com.lsargus.financeiro.mapper
